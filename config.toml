@@ -1,4 +1,4 @@
-baseURL = "aldidoanta.github.io"
+baseURL = "https://aldidoanta.github.io"
 languageCode = "en-us"
 theme = "anatole"
 
