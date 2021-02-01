@@ -1,0 +1,10 @@
+baseURL = "aldidoanta.github.io"
+languageCode = "en-us"
+theme = "anatole"
+
+[params]
+displayMode = "dark"
+title = "Aldi Doanta Kurnia"
+description = "For a cause worth fighting for"
+author = "Aldi Doanta Kurnia"
+profilePicture = "images/profile.jpeg"
