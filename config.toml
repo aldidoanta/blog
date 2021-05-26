@@ -1,7 +1,7 @@
 baseURL = "https://aldidoanta.github.io"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Hello, I'm Aldi Doanta"
+title = "Aldi Doanta"
 theme = "uBlogger"
 
 [params]
@@ -14,11 +14,34 @@ defaultTheme = "auto"
 dateFormat = "2006-01-02"
 # website images for Open Graph and Twitter Cards
 images = ["images/logo.jpg"]
+
+  # Home page config
+  [params.home]
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = "aldidkurnia@gmail.com"
+      # title shown in home page (HTML format is supported)
+      title = "Hello, I'm Aldi Doanta"
+      # subtitle shown in home page
+      subtitle = "\"For a cause worth fighting for\""
+      # whether to show social links
+      social = true
+
   # Page config
   [params.page]
     [params.page.toc]
       # whether to enable the table of the contents
       enable = false
+
+  # Social config about the author
+  [params.social]
+    GitHub = "aldidoanta"
+    LinkedIn = "aldidoanta"
+    Medium = "@aldidoanta"
+    GitLab = "aldidkurnia"
+    Keybase = "aldidoanta"
 
 [menu]
   [[menu.main]]
