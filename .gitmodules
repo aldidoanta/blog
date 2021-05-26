@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/aldidoanta/aldidoanta.github.io.git
 	branch = main
+[submodule "themes/uBlogger"]
+	path = themes/uBlogger
+	url = https://github.com/upagge/uBlogger.git
