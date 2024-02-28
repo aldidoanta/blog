@@ -1,15 +1,12 @@
 ---
 title: Hello World
-subtitle: ""
 date: 2021-02-01T01:39:36+07:00
-lastmod: 2021-06-18T16:02:00+07:00
+lastmod: 2024-02-28T16:35:00+07:00
 draft: false
 author: Aldi Doanta
-
-categories: [General]
-
-featuredImage: "/images/hello-world-old-site.png"
-featuredImagePreview: ""
+image: /images/hello-world-old-site.png
+tags:
+  - General
 ---
 
 Hello World!
